@@ -38,19 +38,19 @@ Project developed as a freelancer in July 2025 (Dublin, Ireland).
 
 ### 📁 Active Directory – User Organization
 
-![Organizational Units]()
+[Organizational Units](imagens/Users_Active_Directory.png)
 
 ---
 
 ### 🧩 GPO – Automatic Notepad++ Installation
 
-![GPO Notepad++]()
+[GPO Notepad++](imagens/Notepad++_GPO.png)
 
 ---
 
 ### 🎨 GPO – Department-Specific Wallpaper
 
-![Wallpaper GPO]()
+[Wallpaper GPO](imagens/Wallpaper_GPO.png)
 
 ---
 
