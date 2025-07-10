@@ -57,7 +57,7 @@ Project developed as a freelancer in July 2025 (Dublin, Ireland).
 ## 📄 Documentation
 
 📝 The full process is documented in the technical report:  
-➡️ []()
+➡️ [technical_report.pdf](docs/technical_report.pdf)
 
 ---
 
